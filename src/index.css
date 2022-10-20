@@ -239,8 +239,9 @@ img {
 }
 
 .wrapper {
-  background-color: #007fff;
-  color: #fff;
+  background-color: #b10f0f;
+  background-image: url("bgimg.jpg");
+  color: rgba(217, 10, 10, 0.781);
   text-align: center;
 }
 
